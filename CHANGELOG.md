@@ -1,5 +1,11 @@
 # Roster changelog
 
+## 0.1.1 (2) — 2026-11-14
+
+### Improved
+
+- The sidebar now marks each project's main worktree with a house icon and "Main" before its details, so you can tell it apart without opening it.
+
 ## 0.1.0 (1) — 2026-11-11
 
 The first release of Roster: a Mac companion that lists your Git projects and worktrees with the Claude Code, Claude Desktop, and Codex sessions that belong to them, and opens each one in its own app.
